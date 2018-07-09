@@ -2,6 +2,8 @@
 
  ![图片不存在](https://github.com/ITBlackDog/ZhiFuPayDialog/blob/master/pic1.png) 
 
-##调起支付密码框
+## 调起支付密码框
 
  ![图片不存在](https://github.com/ITBlackDog/ZhiFuPayDialog/blob/master/pic2.png) 
+
+## 使用相当方便
